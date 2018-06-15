@@ -2,12 +2,12 @@
 for database project
 
 * app.py:
-api
+> api
 
 * templates 
-data.html:insert data to db
-data_update.html: update data to db
-search_table.html: query data in db
+> data.html:insert data to db
+> data_update.html: update data to db
+> search_table.html: query data in db
 
 
 
