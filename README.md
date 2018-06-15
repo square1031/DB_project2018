@@ -6,7 +6,7 @@ for database project
 
 * templates 
 > data.html:insert data to db <br />
-> data_update.html: update data to db 
+> data_update.html: update data to db   
 > search_table.html: query data in db
 
 
