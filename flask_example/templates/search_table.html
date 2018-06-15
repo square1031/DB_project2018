@@ -1,0 +1,13 @@
+<p>Choose a table that you would like to view</p>
+<form action="/show_table" method="post">
+  <label for="table_name">Table Name：</label>
+  <input type="radio" name="table_name" value="message">message
+  <input type="radio" name="table_name" value="user">user
+  <input type="radio" name="table_name" value="comment">comment
+  <input type="radio" name="table_name" value="follows">follows
+  <input type="radio" name="table_name" value="like_dislike">like_dislike
+  <input type="radio" name="table_name" value="location">location
+  <input type="radio" name="table_name" value="mood">mood
+  <input type="submit" value="Submit">
+</form>
+<a href="/index">Back to the index</a><br>
