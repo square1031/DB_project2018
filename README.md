@@ -5,9 +5,9 @@ for database project
 > api
 
 * templates 
-> data.html:insert data to db
--> data_update.html: update data to db
--> search_table.html: query data in db
+> data.html:insert data to db_
+> data_update.html: update data to db_
+> search_table.html: query data in db
 
 
 
