@@ -1,4 +1,0 @@
-id,content,like_num,dislike_num,time,uid,l_name,l_coordinate
-INTEGER,TEXT,INTEGER,INTEGER,TIMESTAMP,TEXT,TEXT,TEXT
-1,This place is so good.,30,2,1528626214,2,國立政治大學,24.987554;121.576108
-2,Taste good but too sweet.,41,22,1528214102,1,陳三鼎黑糖青蛙鮮奶,25.015692;121.532454
